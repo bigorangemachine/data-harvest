@@ -1,4 +1,12 @@
 .env.local
+.env.dev
+.env.development
+.env.production
+
+loader.local.json
+loader.dev.json
+loader.development.json
+loader.production.json
 
 # Logs
 logs
